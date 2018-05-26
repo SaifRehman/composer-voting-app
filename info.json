@@ -1,0 +1,23 @@
+{
+    "author": [
+        {
+            "name": "Saif ur Rehman",
+            "email": "saif.rehman1@ibm.com"
+        },
+        {
+            "name": "Areej Essa",
+            "email": "areej.essa@ae.ibm.com"
+        }
+    ],
+    "_comment_tags": "Please select tags from the complete sets below. Do not create new tags. Only use tags specifically targetted for your content. If your content could match all tags (for example cloud, hybrid, and on-prem) then do not tag it with those tags. Less is more.",
+    "tags_technology": [ "blockchain", "composer", "Hyperledger Fabric" ],
+    "tags_industry": [ ],
+    "tags_deployments": [ "cloud" ],
+    "title": "Creating and testing a voting application on Hyperledger Composer Playground",
+    "description": "Creating and testing a voting application on Hyperledger Composer Playground",
+    "date": "2018-05-11",
+    "draft": true,
+    "_comment_edit": "do not modify the html and links values below",
+    "html": "",
+    "links": []
+}
