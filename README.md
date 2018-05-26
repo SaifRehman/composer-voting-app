@@ -1,6 +1,3 @@
-# composer-voting-app
-
-![t](images/t.jpg)
 
 ## Learning objectives
 
